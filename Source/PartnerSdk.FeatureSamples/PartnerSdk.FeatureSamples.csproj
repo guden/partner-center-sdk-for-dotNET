@@ -318,7 +318,7 @@
       <Version>2.2.2</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.Identity.Client">
-      <Version>4.31.0</Version>
+      <Version>4.61.3</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
       <Version>13.0.1</Version>
